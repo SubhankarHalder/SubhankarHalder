@@ -2,7 +2,7 @@
 
 - I am a software engineer and have two years experience in computer vision engineering
 - I am building [ancon](https://github.com/SubhankarHalder/ancon), an annotation converter library for vision projects
-- Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/subhankar-halder-99060b32/)
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/subhankar-halder-99060b32/)
 
 
 
