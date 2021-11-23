@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Subhankar
 
 - I am a software engineer from India and have two years of professional experience in computer vision engineering
-- I am building [ancon](https://github.com/SubhankarHalder/ancon), an annotation converter Python library for vision projects
+- I am building [ancon](https://github.com/SubhankarHalder/ancon), an open source annotation converter Python library for vision projects
 - I have a Master's degree in Mathematics from the University of Kansas
 - I have a PGDM degree with Finance concentration from IMT Ghaziabad
 - I have earned Bachelor's degrees in Mathematics and Physics from the the University of Kansas
