@@ -5,7 +5,7 @@
 - I have a Master's degree in Mathematics from the University of Kansas
 - I have a PGDM degree with Finance concentration from IMT Ghaziabad
 - I have earned Bachelor's degrees in Mathematics and Physics from the the University of Kansas
-- I attended and graduated from Loyola High School in Jamshedpur
+- I attended and graduated from Loyola School in Jamshedpur
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/subhankar-halder-99060b32/)
 
 
